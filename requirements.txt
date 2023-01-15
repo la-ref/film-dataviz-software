@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+numpy==1.22.2
+PyQt6==6.2.3
+requests==2.27.1
+typing_extensions==4.1.1

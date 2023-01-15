@@ -1,0 +1,1 @@
+Rester sur le même film si encore dans les film filtrés (mais bon puissance de calcul quoi)
