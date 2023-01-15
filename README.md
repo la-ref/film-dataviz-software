@@ -16,9 +16,9 @@ Data:
 
 The documentation is the application is in French
 
-<img src="./img/1.JPG">
+<img src="./image/1.JPG">
 
-<img src="./img/5.JPG">
+<img src="./image/5.JPG">
 
 ## **The prerequisites 📍**
 
@@ -104,11 +104,11 @@ change of color.
 
 ### Screenshots of the interface 📸
 
-<img src="./img/2.JPG">
+<img src="./image/2.JPG">
 
-<img src="./img/3.JPG">
+<img src="./image/3.JPG">
 
-<img src="./img/4.JPG">
+<img src="./image/4.JPG">
 
 # Authors
     - CZARKOWSKI Matthieu
