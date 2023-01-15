@@ -5,7 +5,7 @@
 
 ## **The project 📢**
 
-The project aims at realizing the deminer game an application that is a visualization tool
+The project aims at realizing an application that is a visualization tool
 and decision support on the different data of the film market in a simple and understandable way and with different points of view in order to
 to know the success factors of a movie under PyQt with the MVC architecture.
 
